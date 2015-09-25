@@ -1,0 +1,3 @@
+## The first 3 variables Activity_Labels, labels and subjects are factor variables giving the Activity Description, Activity ID and Subject ID respectively.
+
+## Rest metrics are the average of all the numeric variables in merged dataset of test and training corresponding to that combination of Subject & Activity. Their names are retained as they were in these raw datasets but an "Avg" before them 
